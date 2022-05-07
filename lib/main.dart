@@ -19,7 +19,43 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/person.png'),
               ),
               Text(
-                'Ramyasri R',
+                'Ramyasri RR',
+                style: TextStyle(
+                  fontFamily: 'DancingScript',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 40.0,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                'Ramyasri RR',
+                style: TextStyle(
+                  fontFamily: 'DancingScript',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 40.0,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                'Ramyasri RR',
+                style: TextStyle(
+                  fontFamily: 'DancingScript',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 40.0,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                'Ramyasri RR',
+                style: TextStyle(
+                  fontFamily: 'DancingScript',
+                  fontWeight: FontWeight.bold,
+                  fontSize: 40.0,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                'Ramyasri RR',
                 style: TextStyle(
                   fontFamily: 'DancingScript',
                   fontWeight: FontWeight.bold,
@@ -83,7 +119,7 @@ class MyApp extends StatelessWidget {
                         width: 25.0,
                       ),
                       Text(
-                        'ramyasri0711@gmail.com',
+                        'indhumathi1511@gmail.com',
                         style: TextStyle(
                           color: Colors.teal[900],
                           fontWeight: FontWeight.bold,
